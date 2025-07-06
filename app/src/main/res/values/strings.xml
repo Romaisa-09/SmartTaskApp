@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name used in the manifest -->
+    <string name="app_name">Smart Task Manager</string>
+
+    <!-- Button and UI labels -->
+    <string name="pick_date">Pick Date</string>
+    <string name="save_task">Save Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="task_title_hint">Title</string>
+    <string name="task_description_hint">Description</string>
+    <string name="task_category_prompt">Select Category</string>
+    <string name="pick_due_date">Pick Due Date</string>
+
+
+    <!-- Profile page -->
+    <string name="save_profile">Save Profile</string>
+
+    <!-- Notification text -->
+    <string name="notification_title">Task Due Soon</string>
+    <string name="notification_text">1 hour until deadline</string>
+
+    <!-- Spinner categories -->
+    <string-array name="categories">
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Learning</item>
+    </string-array>
+</resources>

@@ -1,0 +1,41 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.taskapp">
+
+    <!-- Permission for scheduling exact alarms -->
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM"/>
+    <!-- On Android 13+ you’ll also need POST_NOTIFICATIONS if you target 33+ -->
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bg"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:theme="@style/Theme.TaskApp">
+
+        <!-- THIS is your launcher (default) Activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <!-- Add/Edit Task screen (not directly launchable) -->
+        <activity
+            android:name=".AddEditTaskActivity"
+            android:exported="false" />
+
+        <!-- Profile screen if you still have it as an Activity -->
+
+
+        <!-- Your BroadcastReceiver for deadlines -->
+        <receiver
+            android:name=".DeadlineReceiver"
+            android:exported="false" />
+
+    </application>
+</manifest>
