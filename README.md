@@ -36,12 +36,12 @@ git clone https://github.com/Romaisa-09/SmartTaskApp.git
 - Android SDK
 - SQLite 
 - XML for layouts
-![image](https://github.com/user-attachments/assets/f5c926c5-59db-41b0-b8aa-e155ceba2a93)
-![image](https://github.com/user-attachments/assets/acfee04a-3277-4ed8-bab2-16c6bb5c1e6a)
-![image](https://github.com/user-attachments/assets/d798a133-db7a-4486-b022-3d459237280d)
+<img src="https://github.com/user-attachments/assets/f5c926c5-59db-41b0-b8aa-e155ceba2a93" width="150"/>
+<img src="https://github.com/user-attachments/assets/acfee04a-3277-4ed8-bab2-16c6bb5c1e6a" width="150"/>
+<img src="https://github.com/user-attachments/assets/d798a133-db7a-4486-b022-3d459237280d" width="150"/>
+<img src="https://github.com/user-attachments/assets/134864ac-0f69-4a3b-ab4f-1cc9bf2671a4" width="150"/>
+<img src="https://github.com/user-attachments/assets/46a91719-d401-4a69-8cc0-8edbec759c8e" width="150"/>
 
-![image](https://github.com/user-attachments/assets/134864ac-0f69-4a3b-ab4f-1cc9bf2671a4)
-![image](https://github.com/user-attachments/assets/46a91719-d401-4a69-8cc0-8edbec759c8e)
 
 ## About
 
