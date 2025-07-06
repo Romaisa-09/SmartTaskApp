@@ -41,8 +41,6 @@ git clone https://github.com/Romaisa-09/SmartTaskApp.git
 ![image](https://github.com/user-attachments/assets/d798a133-db7a-4486-b022-3d459237280d)
 
 ![image](https://github.com/user-attachments/assets/134864ac-0f69-4a3b-ab4f-1cc9bf2671a4)
-![image](https://github.com/user-attachments/assets/8f0c2889-fd7c-4201-8c3a-1103ec04efaa)
-
 ![image](https://github.com/user-attachments/assets/46a91719-d401-4a69-8cc0-8edbec759c8e)
 
 ## About
