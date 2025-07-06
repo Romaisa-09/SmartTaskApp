@@ -36,10 +36,19 @@ git clone https://github.com/Romaisa-09/SmartTaskApp.git
 - Android SDK
 - SQLite 
 - XML for layouts
+![image](https://github.com/user-attachments/assets/f5c926c5-59db-41b0-b8aa-e155ceba2a93)
+![image](https://github.com/user-attachments/assets/acfee04a-3277-4ed8-bab2-16c6bb5c1e6a)
+![image](https://github.com/user-attachments/assets/d798a133-db7a-4486-b022-3d459237280d)
+
+![image](https://github.com/user-attachments/assets/134864ac-0f69-4a3b-ab4f-1cc9bf2671a4)
+![image](https://github.com/user-attachments/assets/8f0c2889-fd7c-4201-8c3a-1103ec04efaa)
+
+![image](https://github.com/user-attachments/assets/46a91719-d401-4a69-8cc0-8edbec759c8e)
 
 ## About
 
 This project was developed as part of my learning journey in Android app development. The goal was to create a simple yet practical task management app with features like sorting, filtering, and profile handling.
 
 ---
+
 
